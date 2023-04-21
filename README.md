@@ -5,7 +5,7 @@
 Make a page using BEM notation, sass and mobile first
 
 ## Screenshot
-![print screen](./assets/bem%20notation.png)
+![print screen](./assets/my_team_screenshot.jpg)
 ## My process
 ### Built with
 - Semantic HTML5 markup using vscode editor
